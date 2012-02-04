@@ -1,6 +1,6 @@
 ## Installation
 
-##### Straight forward npm-package way
+##### using NPM
     npm install forAsync
 
 ##### using git
