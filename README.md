@@ -1,4 +1,4 @@
-### Installation
+## Installation
 
 ##### Straight forward npm-package way
     npm install forAsync
@@ -8,12 +8,12 @@
 
 ======================================================
 
-### After Installation
+## After Installation
 
 ##### import it to your .js file
     var forAsync = require('forAsync');
 
-### Usage
+## Usage
 
 ##### Upward Loop Function
 
