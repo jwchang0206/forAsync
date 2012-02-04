@@ -1,7 +1,7 @@
 {
   "name": "forAsync",
   "description": "True Asynchronous Loop Functions",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "InspiredJW <inspired.jw@gmail.com>",
   "keywords": ["forAsync", "async", "asynchronous", "for", "loop", "forEach", "forasync"],
   "repository": {
