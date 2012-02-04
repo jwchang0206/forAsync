@@ -1,0 +1,13 @@
+{
+  "name": "forAsync",
+  "description": "True Asynchronous Loop Functions",
+  "version": "0.1.0",
+  "author": "InspiredJW <inspired.jw@gmail.com>",
+  "keywords": ["forAsync", "async", "asynchronous", "for", "loop", "forEach", "forasync"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InspiredJW/forAsync.git"
+  }
+  "main": "index",
+  "engines": { "node": ">= 0.2.0 < 0.7.0" }
+}
