@@ -1,4 +1,19 @@
-### Usage:
+### Installation
+
+##### Straight forward npm-package way
+    npm install forAsync
+
+##### using git
+    git clone git@github.com:InspiredJW/forAsync.git
+
+======================================================
+
+### After Installation
+
+##### import it to your .js file
+    var forAsync = require('forAsync');
+
+### Usage
 
 ##### Upward Loop Function
 
