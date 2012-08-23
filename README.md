@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/InspiredJW/forAsync.png)](http://travis-ci.org/InspiredJW/forAsync)
 ## Installation
 
 ##### using NPM
